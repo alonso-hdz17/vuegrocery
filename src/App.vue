@@ -29,7 +29,7 @@
         id="newGrocery"
         autocomplete="off"
         type="text"
-        placeholder="Add an item to your list"
+        placeholder="Add item to your grocery list"
         v-model="newGrocery"
       />
       <button type="submit">Add</button>  
